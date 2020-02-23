@@ -16,9 +16,6 @@ Google Geocoding API, Forecast.io DarkSky API, IP API, Places AutoComplete API, 
 4. In case the user want to share the weather they can do this using Twitter button which calls Twitter API and shares the weather details with a custom message, which users can write before sharing.
 5. State Seal Images are obtained using Google Custom Search.
 6. Bootstrap is used to make the website responsive and mobile friendly. 
-7. Custom pipes are used in Angular to truncate sentences when long.
-8. There are lot of animations like loading, adding and removing from favorites which were taken care of.
-9. Error Handling for edge cases has been implmeneted (No city in favorite, same city in favorite etc).
-10. Interactive Graphs and Charts are implemented using Chart.js and Canvas.js.
-11. Modal Dialog Box added to provide detailed information in Weekly tab using Bootstrap.
-12. Users can store favorite cities which are accessible at all times even after the website is closed. This is done using Local Storage. They can append, delete from Favorites.
+7. Error Handling for edge cases has been implmeneted (No city in favorite, same city in favorite etc).
+8. Interactive Graphs and Charts are implemented using Chart.js and Canvas.js.
+9. Modal Dialog Box added to provide detailed information in Weekly tab using Bootstrap.

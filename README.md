@@ -1,7 +1,7 @@
 # Weather-Forecast-Web-Application-MEAN-Stack
 
 # Overview
-This responsive application allows users to search for weather information based on the current location or any other location entered by the user. The results will be displayed in Currently, Hourly and Weekly tabs which on clicking, provides a detailed description for that particular tab. The detailed description provides interactive UI along with charts via Chart.js and Canvas.js. The application also allows to post on Twitter the current weather updates. Another important feature of the application was to add and remove cities to/from Favorites.
+This responsive application allows users to search for weather information based on the current location or any other location entered by the user. The results will be displayed in Currently, Hourly and Weekly tabs which on clicking, provides a detailed description for that particular tab. The detailed description provides interactive UI along with charts via Chart.js and Canvas.js. The application also allows to post on Twitter the current weather updates.
 
 # Technolgies Used
 Node.js, Express, Angular 7, TypeScript, Bootstrap, AJAX, JSON, APIs, HTML5, CSS, Amazon Web Services.
